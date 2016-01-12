@@ -11,7 +11,6 @@ import org.joda.time.Duration;
 import com.codahale.metrics.MetricRegistry;
 import com.github.joschi.jadconfig.util.Size;
 
-import static java.nio.charset.StandardCharsets.UTF_8;
 
 public class PerfReadingTest extends AbstractPerf{
 
